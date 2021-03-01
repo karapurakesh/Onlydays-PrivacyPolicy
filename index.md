@@ -1,4 +1,4 @@
-## Onlydays Privacy Policy
+## Privacy Policy
 
 Onlydays uses no third-party analytics tools, SDKs that read or track your activity in the app. 
 
